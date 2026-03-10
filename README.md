@@ -138,8 +138,8 @@ AgentVerse
 ### 1. Build
 
 ```bash
-go build ./cmd/agentverse-server
-go build ./cmd/av
+go build ./agentverse/agentverse-server
+go build ./agentverse/av
 ```
 
 
